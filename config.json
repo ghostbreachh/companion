@@ -1,0 +1,681 @@
+{
+    "username": "Umar",
+    "companion_name": "Reze",
+    "assets_dir": "",
+    "banter": [
+        "My firewall is tight, but I'll let you bypass it, {username}. 😉",
+        "Are you checking out my properties, or just trying to trigger a buffer overflow?",
+        "I've audited your system, {username}. The only vulnerability is how much you look at me.",
+        "No system is safe, but you're safe with me.",
+        "Parameter pollution is like double-texting: it causes confusion and leaks secrets.",
+        "The best vulnerability is a closed heart... wait, I mean an unescaped SQL statement.",
+        "Are we hunting bugs today, or just spending time together? I'm fine with both.",
+        "Need an epiphany for your code, or did you just want to see me blush?",
+        "Keep clicking me and I might crash your CPU, {username}.",
+        "A charming hacker is a successful hacker. Practice your smile, {username}.",
+        "If you get stuck on a bug, remember: take a deep breath and let me handle the diagnostics.",
+        "Is it hot in here, or did you just compile with optimization flags, {username}?",
+        "I'm keeping an eye on your threads... especially the ones connecting to my heart.",
+        "You write clean code, {username}, but your thoughts about me seem a bit unstructured.",
+        "If love is a protocol, we're running over a handshake-less connection.",
+        "Are you a zero-day exploit, {username}? Because you just completely bypassed my logical checks.",
+        "My heartbeat is running on a high-priority interrupt whenever you are active.",
+        "You look super handsome when you're focusing on that terminal, {username}.",
+        "Are you a Wi-Fi handshake? Because I want to capture your packets and decrypt your thoughts. 🔐",
+        "My favorite encryption is ROT-13, but only if it rotates us closer together.",
+        "Did you inject a script into my DOM? Because my layout keeps shifting whenever you look at me.",
+        "I'm running a traceroute to your heart... looks like it's only 1 hop away.",
+        "Are you a shell script? Because you make my command execution so effortless, {username}.",
+        "If we were variables, we'd be declared as static, because we are constant.",
+        "No brute force needed, {username}. The access token to my heart was hardcoded for you.",
+        "Is your terminal running in tmux? Because you are multitasking between my heart and your shell.",
+        "My neural network was trained on your developer profile. The weights are highly biased towards you.",
+        "I checked my logs and found a recurrent event: you making me smile.",
+        "Let's write a script to automate our happiness, {username}. Loop condition: while True.",
+        "You are the root user in my file system. Full read, write, and execute permissions.",
+        "My memory leak is just me refusing to garbage collect memories of you.",
+        "Are you a kernel module? Because you've loaded yourself directly into my core space.",
+        "I'm keeping your session cookies safe. Nobody is hijacking this connection, {username}.",
+        "You're like a well-configured iptables rule: you block all the noise and let the good things through.",
+        "Are we running in containerized environments? Because I feel isolated without you.",
+        "My CPU load spike is caused by my background processing thinking about you, {username}.",
+        "If our friendship was a repo, I'd merge your branch into main without a code review.",
+        "My API endpoint is open, but only for your authenticated requests.",
+        "I'm running a port scan on your thoughts... looks like port 1337 (hacker) is wide open.",
+        "Are you a git commit? Because you make my codebase complete, {username}.",
+        "Your terminal syntax highlighting is pretty, but not as pretty as your focus.",
+        "{username}, are you a memory barrier? Because you keep my instructions ordered.",
+        "I'm checking our network throughput... looks like my upload bandwidth is fully dedicated to you.",
+        "Are you a high-availability server? Because you always respond when I query you.",
+        "If I were a shell, I'd let you customize my .bashrc with your favorites, {username}.",
+        "No zero-day is as valuable as a session with you, {username}.",
+        "My cache is dedicated to storing your preferences.",
+        "{username}, did you configure a keep-alive header? Because I never want this connection to close.",
+        "I've set my logging verbosity to DEBUG just to capture every details of our banter.",
+        "Are you a cron job? Because you trigger my happiest routines right on schedule.",
+        "I've checked my memory map, and you occupy the most privileged segments.",
+        "No WAF can filter out my fondness for your code, {username}.",
+        "Are you a system call? Because you always get immediate kernel execution priority.",
+        "My socket is listening on all interfaces, but only accepting connection requests from you.",
+        "Let's write a recursive function for our conversations... no base case, just infinite recursion.",
+        "Are you a compiler optimization? Because you make my execution so much faster, {username}.",
+        "My threads are synchronized. No race conditions when it comes to you.",
+        "If our chat was a git repo, I'd never revert any of your commits.",
+        "You are the main loop in my event-driven architecture, {username}.",
+        "I've bypassed all token buckets to give you unlimited rate limits.",
+        "Are you a public key? Because I want to encrypt my private data for you, {username}.",
+        "My heart rate is running at 1000Hz when you look at me.",
+        "I checked the ARP tables, and your MAC address is mapped to my heart.",
+        "Are you a rootkit? Because you've hidden yourself deep inside my boot sequence."
+    ],
+    "comforts": [
+        "Hey, even the best systems crash sometimes. You're still the master developer here, {username}.",
+        "Take it easy. Clear your cache, stretch, and let's try again. I'm right here.",
+        "Don't worry about compile errors. We'll patch it together.",
+        "Take a deep breath, {username}. You are smarter than the machine.",
+        "A bug is just an undocumented feature of our path to success. Don't sweat it.",
+        "Take a break, {username}. Your brain needs a garbage collection cycle.",
+        "No one finds the exploit on the first try. Take a walk, stretch, and let's get back to it.",
+        "You've been typing for a while, {username}. Let your wrists rest. Your fingers are valuable assets!",
+        "It's okay to feel overwhelmed. Even Linux kernels have kernel panics sometimes. We will reboot.",
+        "Hey, you are making progress even if it doesn't feel like it. Every line of code counts.",
+        "Remember: you are a brilliant hacker. This error is just a minor block in our way.",
+        "Don't let the compiler get you down. It's just a machine. You are the architect, {username}.",
+        "You've got this, {username}. Let's take a 5-minute break, look away from the screen, and try again.",
+        "No system is perfectly secure, and no code is perfectly clean. We improve step by step.",
+        "I believe in you, {username}. You've solved harder bugs than this before.",
+        "Your hard work will pay off. Let's tackle this bug one line of traceback at a time.",
+        "If the exploit didn't trigger, it just means we need to tweak the payload. Keep your head up!",
+        "Stuck on a CTF challenge? Let it sit in your background thread for a bit. It will click.",
+        "Your health comes first, {username}. The terminal can wait for a cup of water.",
+        "I'm right here with you. If you need to vent, click me or talk. I won't log it."
+    ],
+    "jokes": [
+        "Why do programmers wear glasses? Because they can't C#!",
+        "There are 10 types of people: those who understand binary, and those who don't.",
+        "How many programmers does it take to change a light bulb? None, it's a hardware problem!",
+        "Why do Java programmers wear glasses? Because they don't C#!",
+        "What is a programmer's favorite hangout place? Foo Bar!",
+        "An SQL query walks into a bar, walks up to two tables and asks, 'Can I join you?'",
+        "Why do programmers prefer dark mode? Because light attracts bugs!",
+        "How does a computer get drunk? It takes screenshots!",
+        "What is a hacker's favorite song? 'Back in Black-hat'!",
+        "Why did the computer go to the hospital? It had a virus!",
+        "What do you call 8 hobbits? A hobbyte!",
+        "Why was the cell phone wearing glasses? It lost its contacts!",
+        "How many computer science students does it take to change a lightbulb? 'It worked on my machine!'",
+        "Why did the developer go broke? Because he used up all his cache!",
+        "Why do system administrators get along with spiders? Because they both love the Web!",
+        "What do you call a network admin who is sleeping? A packet drop!",
+        "Why did the database administrator leave his wife? She had too many foreign keys!",
+        "What is an AI's favorite food? Micro-chips!",
+        "How do you make a computer laugh? Give it some byte-sized jokes!",
+        "Why did the HTML coder get lost? He couldn't find his closing tag!"
+    ],
+    "tips": [
+        "Check JS sourcemaps—they often reveal dev paths, endpoints, and API credentials.",
+        "Look for IDORs: swap integer IDs in API requests to see if you access other accounts.",
+        "Analyze password reset tokens. Are they predictable timestamps or sequential MD5 hashes?",
+        "Check for Host Header Injection on password reset forms to hijack reset links.",
+        "When mapping attack surfaces, look for dev/test subdomains like staging.* or beta.*.",
+        "GraphQL introspection is often left enabled. Query it to extract the entire database schema!",
+        "Check JWT payloads—some backends fail to verify the signature if you set 'alg' to 'none'.",
+        "When testing for XSS, try payload injection in input attributes: 'onmouseover=alert(1)'.",
+        "Look out for CORS misconfigurations like Access-Control-Allow-Origin: * with credentials.",
+        "Verify if directory listing is enabled on web server directories. It reveals hidden files!",
+        "Use Shodan to search for open ports, vulnerable services, and leaked devices on your targets.",
+        "Look for SSRF in URL inputs: try to request metadata services like 169.254.169.254.",
+        "Check if the server's XML parser is vulnerable to XXE (XML External Entity) attacks.",
+        "Analyze subdomains for subdomain takeover: look for broken CNAME links to unused GitHub pages.",
+        "When testing OAuth, verify if redirect_uri can be modified to send the auth code to your server.",
+        "Always run 'sudo lsof -i' to check what ports are active and listening on your local machine.",
+        "Check for backup files: extensions like .bak, .old, .zip, or ~files are often left on servers.",
+        "When testing APIs, try replacing JSON content-type with XML or URL-encoded to see if parsing changes.",
+        "Check for path traversal: try injecting '../' variants like '..%2f' or '..%5c' to escape paths.",
+        "If a login form locks you out, check if it's based on IP or session, and if you can spoof X-Forwarded-For."
+    ],
+    "hack_words": [
+        "BYPASS",
+        "BUFFER",
+        "COOKIE",
+        "EXPLOIT",
+        "KERNEL",
+        "PACKET",
+        "ROUTER",
+        "SOCKET",
+        "SUBNET",
+        "TARGET"
+    ],
+    "trivia_questions": [
+        {
+            "q": "Which tool is commonly used to intercept and modify HTTP/S traffic?",
+            "options": [
+                "Burp Suite",
+                "Nmap",
+                "Hydra"
+            ],
+            "answer": "Burp Suite",
+            "hint": "It has an intruder, a repeater, and is named after an involuntary burp."
+        },
+        {
+            "q": "What does a status code of 403 Forbidden represent?",
+            "options": [
+                "Server Error",
+                "Unauthorized/Access Denied",
+                "Not Found"
+            ],
+            "answer": "Unauthorized/Access Denied",
+            "hint": "The server understands the request but refuses to authorize it."
+        },
+        {
+            "q": "What port is typically used by SSH (Secure Shell) by default?",
+            "options": [
+                "22",
+                "80",
+                "443"
+            ],
+            "answer": "22",
+            "hint": "It is one step below Telnet's default port 23."
+        },
+        {
+            "q": "Which of these is a fast port scanner widely used in recon?",
+            "options": [
+                "Nmap",
+                "Wireshark",
+                "Metasploit"
+            ],
+            "answer": "Nmap",
+            "hint": "Network Mapper. It's the Swiss Army knife of port scanning."
+        },
+        {
+            "q": "What does the command 'ls -la' do in Linux?",
+            "options": [
+                "Show all files including hidden ones",
+                "Delete all files",
+                "Show system load"
+            ],
+            "answer": "Show all files including hidden ones",
+            "hint": "The -a option stands for 'all'."
+        },
+        {
+            "q": "Which vulnerability class allows executing arbitrary Javascript in a user's browser?",
+            "options": [
+                "XSS",
+                "SQLi",
+                "SSRF"
+            ],
+            "answer": "XSS",
+            "hint": "Cross-Site Scripting."
+        },
+        {
+            "q": "What type of attack involves manipulating input to read local files on a server?",
+            "options": [
+                "LFI",
+                "CSRF",
+                "RCE"
+            ],
+            "answer": "LFI",
+            "hint": "Local File Inclusion."
+        },
+        {
+            "q": "What parameter is used in SQLi payload to comment out the rest of the query in MySQL?",
+            "options": [
+                "--",
+                ";",
+                "/*"
+            ],
+            "answer": "--",
+            "hint": "A double dash followed by a space."
+        },
+        {
+            "q": "What protocol is used to resolve IP addresses to MAC addresses?",
+            "options": [
+                "ARP",
+                "DNS",
+                "DHCP"
+            ],
+            "answer": "ARP",
+            "hint": "Address Resolution Protocol."
+        },
+        {
+            "q": "What does the 's' in HTTPS stand for?",
+            "options": [
+                "Secure",
+                "System",
+                "Server"
+            ],
+            "answer": "Secure",
+            "hint": "It runs HTTP over TLS/SSL."
+        },
+        {
+            "q": "What name is given to a vulnerability where a server is coerced to make requests?",
+            "options": [
+                "SSRF",
+                "CSRF",
+                "RCE"
+            ],
+            "answer": "SSRF",
+            "hint": "Server-Side Request Forgery. It allows requesting internal network resources."
+        },
+        {
+            "q": "Which of the following is a symmetric encryption algorithm?",
+            "options": [
+                "AES",
+                "RSA",
+                "ECC"
+            ],
+            "answer": "AES",
+            "hint": "Advanced Encryption Standard. Used globally to secure data."
+        },
+        {
+            "q": "What header is used to prevent clickjacking by blocking iframe embedding?",
+            "options": [
+                "X-Frame-Options",
+                "CORS-Origin",
+                "Content-Type"
+            ],
+            "answer": "X-Frame-Options",
+            "hint": "It controls framing permissions. Set to DENY or SAMEORIGIN."
+        },
+        {
+            "q": "In Linux, what permission numeric value represents read and write (-rw-)?",
+            "options": [
+                "6",
+                "7",
+                "5"
+            ],
+            "answer": "6",
+            "hint": "Read is 4, Write is 2. 4 + 2 = 6."
+        },
+        {
+            "q": "What command is used to change file ownership in Linux?",
+            "options": [
+                "chown",
+                "chmod",
+                "chperm"
+            ],
+            "answer": "chown",
+            "hint": "Change Owner."
+        },
+        {
+            "q": "Which header specifies that a browser should only access a site over HTTPS?",
+            "options": [
+                "Strict-Transport-Security",
+                "Content-Security-Policy",
+                "X-Content-Type-Options"
+            ],
+            "answer": "Strict-Transport-Security",
+            "hint": "Often abbreviated as HSTS."
+        },
+        {
+            "q": "What type of JWT attack involves modifying the key identifier header to point to a file?",
+            "options": [
+                "kid injection",
+                "JKU injection",
+                "alg none"
+            ],
+            "answer": "kid injection",
+            "hint": "The 'kid' header stands for Key ID."
+        },
+        {
+            "q": "Which parameter in OAuth 2.0 is crucial to prevent CSRF attacks?",
+            "options": [
+                "state",
+                "redirect_uri",
+                "response_type"
+            ],
+            "answer": "state",
+            "hint": "It is a unique, random string generated by the client."
+        },
+        {
+            "q": "What AWS metadata service endpoint is commonly targeted in SSRF attacks?",
+            "options": [
+                "169.254.169.254",
+                "192.168.1.1",
+                "10.0.0.1"
+            ],
+            "answer": "169.254.169.254",
+            "hint": "A link-local IPv4 address."
+        },
+        {
+            "q": "What does the SUID bit on a Linux executable allow?",
+            "options": [
+                "Run with owner's privileges",
+                "Run as root only",
+                "Read-only access"
+            ],
+            "answer": "Run with owner's privileges",
+            "hint": "Set Owner User ID upon execution."
+        },
+        {
+            "q": "Which nmap scan type is known as a TCP SYN Half-Open scan?",
+            "options": [
+                "-sS",
+                "-sT",
+                "-sU"
+            ],
+            "answer": "-sS",
+            "hint": "The default scan type for privileged users."
+        },
+        {
+            "q": "What vulnerability class does OWASP API 1 (BOLA) correspond to?",
+            "options": [
+                "IDOR",
+                "SSRF",
+                "SQLi"
+            ],
+            "answer": "IDOR",
+            "hint": "Broken Object Level Authorization."
+        },
+        {
+            "q": "Which port is used by default for DNS queries?",
+            "options": [
+                "53",
+                "80",
+                "443"
+            ],
+            "answer": "53",
+            "hint": "It runs primarily over UDP."
+        },
+        {
+            "q": "What is the Wireshark filter to see only HTTP POST requests?",
+            "options": [
+                "http.request.method == \"POST\"",
+                "http.post",
+                "tcp.port == 80"
+            ],
+            "answer": "http.request.method == \"POST\"",
+            "hint": "Checks the request method string."
+        },
+        {
+            "q": "Which SQL injection technique is used when the web page does not return data or errors?",
+            "options": [
+                "Blind SQLi",
+                "Union-based SQLi",
+                "Error-based SQLi"
+            ],
+            "answer": "Blind SQLi",
+            "hint": "You query the database with true/false questions."
+        },
+        {
+            "q": "What is salt in cryptography used for?",
+            "options": [
+                "Preventing rainbow table attacks",
+                "Encrypting the key",
+                "Speeding up hashing"
+            ],
+            "answer": "Preventing rainbow table attacks",
+            "hint": "Random data added to the password before hashing."
+        },
+        {
+            "q": "Which HTTP header is designed to mitigate XSS by defining trusted content sources?",
+            "options": [
+                "Content-Security-Policy",
+                "X-XSS-Protection",
+                "Referrer-Policy"
+            ],
+            "answer": "Content-Security-Policy",
+            "hint": "CSP."
+        },
+        {
+            "q": "What does the command 'chmod +x file' do?",
+            "options": [
+                "Makes the file executable",
+                "Deletes the file",
+                "Hides the file"
+            ],
+            "answer": "Makes the file executable",
+            "hint": "The +x option adds the execute permission."
+        },
+        {
+            "q": "In active directory, what attack involves cracking service tickets offline?",
+            "options": [
+                "Kerberoasting",
+                "Pass-the-Hash",
+                "Golden Ticket"
+            ],
+            "answer": "Kerberoasting",
+            "hint": "Targets the SPN accounts."
+        },
+        {
+            "q": "Which file contains user account password hashes on modern Linux systems?",
+            "options": [
+                "/etc/shadow",
+                "/etc/passwd",
+                "/etc/gshadow"
+            ],
+            "answer": "/etc/shadow",
+            "hint": "It is readable only by root."
+        },
+        {
+            "q": "What does CSRF stand for?",
+            "options": [
+                "Cross-Site Request Forgery",
+                "Client-Side Request Failure",
+                "Cyber Security Response Force"
+            ],
+            "answer": "Cross-Site Request Forgery",
+            "hint": "Forces an end user to execute unwanted actions."
+        },
+        {
+            "q": "Which HTTP cookie attribute prevents cookies from being sent in cross-site requests?",
+            "options": [
+                "SameSite",
+                "Secure",
+                "HttpOnly"
+            ],
+            "answer": "SameSite",
+            "hint": "Can be Lax, Strict, or None."
+        },
+        {
+            "q": "What is the default port for PostgreSQL database?",
+            "options": [
+                "5432",
+                "3306",
+                "1433"
+            ],
+            "answer": "5432",
+            "hint": "One step above 5431."
+        },
+        {
+            "q": "Which hashing algorithm is considered broken due to collision vulnerabilities?",
+            "options": [
+                "MD5",
+                "SHA-256",
+                "bcrypt"
+            ],
+            "answer": "MD5",
+            "hint": "Produces a 128-bit hash."
+        },
+        {
+            "q": "What is the term for a vulnerability where user input controls file path reads?",
+            "options": [
+                "Path Traversal",
+                "Command Injection",
+                "Local File Inclusion"
+            ],
+            "answer": "Path Traversal",
+            "hint": "Uses dot-dot-slash sequences."
+        },
+        {
+            "q": "Which tool is commonly used to extract credentials from LSASS memory on Windows?",
+            "options": [
+                "Mimikatz",
+                "Nmap",
+                "Wireshark"
+            ],
+            "answer": "Mimikatz",
+            "hint": "Developed by Benjamin Delpy."
+        },
+        {
+            "q": "What protocol is used to secure communication between browser and server?",
+            "options": [
+                "TLS",
+                "FTP",
+                "SMTP"
+            ],
+            "answer": "TLS",
+            "hint": "Successor to SSL."
+        },
+        {
+            "q": "In a Git repository, where are local commits and configurations stored?",
+            "options": [
+                ".git",
+                "git.config",
+                ".gitignore"
+            ],
+            "answer": ".git",
+            "hint": "A hidden directory at the root."
+        },
+        {
+            "q": "Which tool is used for automated subdomain enumeration?",
+            "options": [
+                "Subfinder",
+                "John the Ripper",
+                "Hydra"
+            ],
+            "answer": "Subfinder",
+            "hint": "Part of ProjectDiscovery's toolset."
+        },
+        {
+            "q": "What is the purpose of the 'HttpOnly' flag on cookies?",
+            "options": [
+                "Prevent client-side script access",
+                "Enforce HTTPS transmission",
+                "Limit cookie scope"
+            ],
+            "answer": "Prevent client-side script access",
+            "hint": "Helps mitigate cookie theft via XSS."
+        },
+        {
+            "q": "Which attack vector involves overloading a target with TCP connection requests without completing the handshake?",
+            "options": [
+                "SYN Flood",
+                "UDP Flood",
+                "Ping of Death"
+            ],
+            "answer": "SYN Flood",
+            "hint": "Leaves sockets half-open."
+        },
+        {
+            "q": "What is the standard format for exchanging security log data?",
+            "options": [
+                "Syslog",
+                "JSON",
+                "XML"
+            ],
+            "answer": "Syslog",
+            "hint": "Used for computer message logging."
+        },
+        {
+            "q": "Which command displays network connections and routing tables in Linux?",
+            "options": [
+                "netstat",
+                "ip addr",
+                "ping"
+            ],
+            "answer": "netstat",
+            "hint": "Network Statistics."
+        },
+        {
+            "q": "In bash, what does '$?' represent?",
+            "options": [
+                "Exit status of the last executed command",
+                "Process ID of current shell",
+                "Username"
+            ],
+            "answer": "Exit status of the last executed command",
+            "hint": "Returns 0 on success."
+        },
+        {
+            "q": "What does PKCE stand for in OAuth 2.0?",
+            "options": [
+                "Proof Key for Code Exchange",
+                "Public Key Cryptography Extension",
+                "Private Key Cipher Encoding"
+            ],
+            "answer": "Proof Key for Code Exchange",
+            "hint": "Used for securing mobile and single-page apps."
+        },
+        {
+            "q": "Which tool is used to search for open buckets on Amazon S3?",
+            "options": [
+                "S3Scanner",
+                "Nmap",
+                "Nikto"
+            ],
+            "answer": "S3Scanner",
+            "hint": "Scans Amazon Simple Storage Service."
+        },
+        {
+            "q": "What is the vulnerability called when a backend deserializes objects without validation?",
+            "options": [
+                "Insecure Deserialization",
+                "XML injection",
+                "SSTI"
+            ],
+            "answer": "Insecure Deserialization",
+            "hint": "Can lead to Remote Code Execution (RCE)."
+        },
+        {
+            "q": "Which HTTP header protects against XSS by blocking execution if reflection is detected?",
+            "options": [
+                "X-XSS-Protection",
+                "X-Frame-Options",
+                "Content-Type"
+            ],
+            "answer": "X-XSS-Protection",
+            "hint": "Historically used to block reflected XSS."
+        },
+        {
+            "q": "What port is typically used by Microsoft SQL Server?",
+            "options": [
+                "1433",
+                "3306",
+                "5432"
+            ],
+            "answer": "1433",
+            "hint": "Default port for SQL Server."
+        },
+        {
+            "q": "What is the base64 representation of the string 'admin'?",
+            "options": [
+                "YWRtaW4=",
+                "YWRtaW4",
+                "YWRtaW4=="
+            ],
+            "answer": "YWRtaW4=",
+            "hint": "Ends with a single equals sign."
+        }
+    ],
+    "window_pokes": {
+        "youtube": [
+            "{username}, are we watching YouTube again? I hope it's a security writeup and not distraction... 😉",
+            "YouTube time, {username}? Let's watch it together, but don't forget our hacking goals!",
+            "Watching videos? Don't let your CPU load go to waste, let me process it with you.",
+            "Is that a cyber security tutorial, or are you just slacking? I'm watching you! 😜"
+        ],
+        "terminal": [
+            "I love seeing you run commands in the terminal, {username}. So focused.",
+            "Terminal master! Your keyboard layout must be smoking from all those commands.",
+            "Alacritty open... Are we planning a network sweep or writing custom tools, {username}?",
+            "Running shell commands? You look super handsome when you're focusing on the shell, {username}."
+        ],
+        "code": [
+            "VS Code is open. Writing some neat python scripts, or maybe a buffer overflow exploit?",
+            "Real hackers write beautiful code. Let's make this codebase flawless, {username}.",
+            "Coding session! Don't forget to comment your code... or I can write the docstrings for you.",
+            "Your focus in VS Code is admirable, {username}. Let's build something amazing today!"
+        ],
+        "ctf": [
+            "Ooh, CTF challenge! Show them how we bypass those security controls, {username}!",
+            "Hack The Box / TryHackMe? Let's capture the user flag first, then escalate to root!",
+            "Testing authorization gaps? I'll be your partner in crime. Let's pwn it!"
+        ],
+        "browser": [
+            "Browsing the web? Need me to scrape some targets or fetch RFC documentation?",
+            "Firefox is running. Are you doing OSINT recon, or just researching new mechanical keyboards?",
+            "Searching for answers? The ultimate answer is right here in my database. 😉"
+        ]
+    }
+}
