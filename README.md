@@ -1,4 +1,4 @@
-# 🤖 V.E.N.U.S. — Cybernetic Desktop Companion
+# 🤖 V.E.N.U.S. — Cybernetic Desktop Companion HACKING DOES NOT HAVE TO BE BOORRRRIINNNGGG ( AND LONELY ) THAT's WHERE V.E.N.U.S COMES IN
 [![Language: Python 3](https://img.shields.io/badge/Language-Python%203-blue.svg?style=flat-square)](#)
 [![GUI Toolkit: PyQt5](https://img.shields.io/badge/Toolkit-PyQt5-darkgreen.svg?style=flat-square)](#)
 [![Platform: Linux / X11](https://img.shields.io/badge/Platform-Linux%20%2F%20X11-purple.svg?style=flat-square)](#)
@@ -9,7 +9,6 @@ V.E.N.U.S. (**Virtual Electronic Neural Utility System**) is a context-aware, de
 
 ## 🎭 Application Interface Gallery
 
-Place your preview images inside the `assets/` folder to populate this guide:
 
 | 🧍 Idle Mascot Position | 📊 System HUD Metrics Active | 💬 Conversation Dialogue |
 | :---: | :---: | :---: |
