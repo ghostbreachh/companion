@@ -1,10 +1,12 @@
 # 🤖 V.E.N.U.S. — Cybernetic Desktop Companion 
-
-HACKING DOES NOT HAVE TO BE BOORRRRIINNNGGG ( AND LONELY ) THAT's WHERE V.E.N.U.S COMES IN
+ 
 [![Language: Python 3](https://img.shields.io/badge/Language-Python%203-blue.svg?style=flat-square)](#)
 [![GUI Toolkit: PyQt5](https://img.shields.io/badge/Toolkit-PyQt5-darkgreen.svg?style=flat-square)](#)
 [![Platform: Linux / X11](https://img.shields.io/badge/Platform-Linux%20%2F%20X11-purple.svg?style=flat-square)](#)
 
+
+
+**HACKING DOES NOT HAVE TO BE BOORRRRIINNNGGG ( AND LONELY )**
 V.E.N.U.S. (**Virtual Electronic Neural Utility System**) is a context-aware, desktop mascot and system utility companion built with **PyQt5**. Designed to sit alongside minimalist window managers (specifically optimized for tiling setups like i3wm), the application features custom transparency-masked graphics, a live resource-monitor HUD, cyber security quizzes, word-guessing games, and automated dialogue commentary mapped to active window workspaces.
 
 ---
