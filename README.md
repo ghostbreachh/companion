@@ -7,6 +7,7 @@
 
 
 **HACKING DOES NOT HAVE TO BE BOORRRRIINNNGGG ( AND LONELY )**
+
 V.E.N.U.S. (**Virtual Electronic Neural Utility System**) is a context-aware, desktop mascot and system utility companion built with **PyQt5**. Designed to sit alongside minimalist window managers (specifically optimized for tiling setups like i3wm), the application features custom transparency-masked graphics, a live resource-monitor HUD, cyber security quizzes, word-guessing games, and automated dialogue commentary mapped to active window workspaces.
 
 ---
